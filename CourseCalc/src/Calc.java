@@ -55,13 +55,12 @@ public class Calc {
 	}
 
 	public Double doTimes(double a, double b) {
-		double ans = a * b;
-		return ans;
+		return a * b;
 	}
 
-	public Double doDivide(double a, double b) {
-		double ans = a / b;
-		return ans;
+																																																									public Double doDivide(double a, double b) {
+		 
+		return a / b;
 	}
 
 }
